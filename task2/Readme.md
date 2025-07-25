@@ -98,7 +98,7 @@ The resulting raw scores were scaled to the required **0 to 1000** range to prod
 
 
 .
-├── Wallet_Risk_Scoring.ipynb     # The main Jupyter Notebook with all the code for the analysis.
+├── Zeru2.ipynb     # The main Jupyter Notebook with all the code for the analysis.
 ├── wallet_risk_scores.csv        # The final output file with wallet addresses and their risk scores.
 └── README.md                     # This documentation file.
 
@@ -109,9 +109,9 @@ The resulting raw scores were scaled to the required **0 to 1000** range to prod
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/predator-911/aave-credit-scoring/task2>
     ```
-2.  **Open the Notebook:** Upload and open `Wallet_Risk_Scoring.ipynb` in Google Colaboratory or a local Jupyter environment.
+2.  **Open the Notebook:** Upload and open `Zeru2.ipynb` in Google Colaboratory or a local Jupyter environment.
 3.  **Install Dependencies:** The first cell in the notebook contains the necessary `pip` commands to install all required libraries.
 4.  **Run All Cells:** Execute the cells sequentially to perform the full analysis, from data fetching to exporting the final CSV.
 
